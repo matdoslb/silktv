@@ -1,0 +1,4 @@
+# This is a public information-only repository. Do not add app code or secrets.
+*
+!.gitignore
+!README.md
